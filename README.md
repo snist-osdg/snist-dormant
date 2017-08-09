@@ -1,10 +1,8 @@
-# snist-osdg.github.io
-Website of SNIST Open Source Group
 
-```html
-<form method="POST" action="http://formspree.io/sniststudent@gmail.com">
-  <input type="email" name="email" placeholder="Your email">
-  <textarea name="message" placeholder="Your message"></textarea>
-  <button type="submit">Send</button>
-</form>
-```
+# Sparrow Jekyll theme 
+
+## Credits
+
+- Bird icon made by [Freepik](http://www.freepik.com) from [Flaticon](http://www.flaticon.com) and is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/).
+- Photos from [Unsplash](https://unsplash.com/)
+
